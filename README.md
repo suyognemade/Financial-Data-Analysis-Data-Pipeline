@@ -39,7 +39,7 @@ The pipeline uses **Apache Spark** for data transformation, **AWS S3** for scala
 
 ## Architecture
 
-![Pipeline Architecture](link_to_architecture_image)
+![Financial data pipeline drawio](https://github.com/user-attachments/assets/4ee656c8-4b92-4e01-ae14-9878ac2ee8c2)
 
 The architecture consists of multiple stages to handle the ingestion, transformation, storage, and visualization of stock data. Below is a high-level breakdown:
 
