@@ -122,7 +122,7 @@ financial-data-pipeline/
 ├── README.md                   # This README file
 └── LICENSE                     # License file for the project
 
-
+```
 
 
 ---
@@ -143,7 +143,7 @@ financial-data-pipeline/
 ```bash
 git clone https://github.com/yourusername/financial-data-pipeline.git
 cd financial-data-pipeline
-
+```
 
 ### AWS S3 Setup
 
