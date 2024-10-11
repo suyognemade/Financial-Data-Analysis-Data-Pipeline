@@ -92,8 +92,11 @@ The project leverages a variety of tools for big data processing, orchestration,
 
 ---
 
+
+
 ## Project Structure
 
+```bash
 financial-data-pipeline/
 │
 ├── dags/                       # Apache Airflow DAGs for orchestrating workflows
@@ -121,6 +124,7 @@ financial-data-pipeline/
 
 
 
+
 ---
 
 ## Setup and Installation
@@ -139,6 +143,7 @@ financial-data-pipeline/
 ```bash
 git clone https://github.com/yourusername/financial-data-pipeline.git
 cd financial-data-pipeline
+
 
 ### AWS S3 Setup
 
