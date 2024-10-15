@@ -21,11 +21,10 @@
   - [Step 3: Store Data](#step-3-store-data)
   - [Step 4: Visualize Data](#step-4-visualize-data)
   - [Step 5: Monitor the Pipeline](#step-5-monitor-the-pipeline)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Project Overview for Financial Data](#Project Overview for Financial Data)
+- [Project Highlights](#Project Highlights)
+- [Tableau Dashboard](#Tableau Dashboard)
+
 
 ---
 
