@@ -147,7 +147,7 @@ financial-data-pipeline/
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/yourusername/financial-data-pipeline.git
+git clone https://github.com/suyognemade/financial-data-pipeline.git
 cd financial-data-pipeline
 ```
 
