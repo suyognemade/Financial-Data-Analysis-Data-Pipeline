@@ -127,7 +127,7 @@ financial-data-pipeline/
 ├── tableau/                    # Tableau dashboard files
 │   └── stock_dashboard.twbx    # Tableau workbook for stock market visualization
 │
-├── README.md                   # This README file
+|_ README.md                   # This README file
 
 ```
 
