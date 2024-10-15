@@ -243,4 +243,4 @@ Use Kibana to monitor logs and system health, and set up alerts for any issues.
 * **Automated Alerts:** Send email notifications for key market movements, price changes, or pipeline issues.
 * **Comprehensive Monitoring:** Use the ELK stack to ensure high availability and quick issue resolution.
 ### Tableau Dashboard
-(Include screenshots of your Tableau dashboard here)
+![Financial data Dashboard ](https://github.com/user-attachments/assets/0d5925dc-57c1-44f0-b91f-f1e6c1f3037e)
