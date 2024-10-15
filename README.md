@@ -59,6 +59,7 @@ The pipeline ingests large volumes of financial data from various sources, inclu
 
 - **Orchestration:** Apache Airflow manages the data ingestion process, pulling data from APIs or stock market data providers at regular intervals (e.g., every minute or every hour).
 - **Key Benefit:** Using S3 and Airflow, we ensure that stock data is collected and stored efficiently, with the flexibility to scale as the number of companies and data points increases.
+![Screenshot 2024-10-10 at 3 23 09 PM](https://github.com/user-attachments/assets/3c87de20-1f44-45c3-914e-69d1149eb35e)
 
 ## 2. Transforming Financial Data
 Once the data is ingested, Apache Spark processes and transforms it, calculating important financial metrics such as moving averages, volatility, price-to-earnings ratios, and other key indicators used in trading. The transformed data is then stored in S3 for further analysis.
@@ -79,6 +80,7 @@ Tableau connects to the PostgreSQL database to visualize key stock metrics, tren
 Continuous monitoring is crucial for a stock data pipeline, as financial data is time-sensitive. Logs generated during each stage of the pipeline—data ingestion, transformation, and analysis—are saved in AWS S3. Filebeat collects these logs and forwards them to Logstash, where they are processed and enriched. The logs are indexed in Elasticsearch, making it easy to search for issues or performance bottlenecks. Kibana visualizes the logs and tracks pipeline health, with alerts configured to trigger Gmail notifications for critical issues.
 
 - **Key Benefit:** The ELK stack ensures real-time monitoring, allowing quick reactions to any issues such as slow processing times, data source failures, or system bottlenecks.
+![Screenshot 2024-10-10 at 3 29 21 PM](https://github.com/user-attachments/assets/b9ec5247-6ef4-4f45-89f5-a245f6fe9b03)
 
 
 ---
