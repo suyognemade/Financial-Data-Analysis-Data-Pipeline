@@ -128,7 +128,6 @@ financial-data-pipeline/
 │   └── stock_dashboard.twbx    # Tableau workbook for stock market visualization
 │
 ├── README.md                   # This README file
-└── LICENSE                     # License file for the project
 
 ```
 
